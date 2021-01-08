@@ -35,17 +35,17 @@ ROSを使用したPublisherとSubscriberのプログラム作成
 
   ## プログラム起動方法
 
-terminal１
+### terminal１
 ```bash
 roscore
   ```
   
-terminal２
+### terminal２
   ```bash
 roslaunch ros_system pubsub.launch
   ```
   
-terminal３
+### terminal３
 
 1ずつカウント
 ```bash
