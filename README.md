@@ -28,7 +28,19 @@ terminal１
 ```bash
 roscore
   ```
-  terminal２
+  
+terminal２
   ```bash
-roslaunch ros_system 
+roslaunch ros_system pubsub.launch
+  ```
+  
+terminal３
+1ずつカウント
+```bash
+rostopic echo /count_up
+  ```
+  
+2ずつカウント
+```bash
+rostopic echo /twice
   ```
