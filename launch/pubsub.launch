@@ -1,0 +1,4 @@
+<launch>
+    <node name="count"  pkg="ros_system"    type="count.py" />
+    <node name="twice"  pkg="ros_system"    type="twice.py" />
+</launch>
