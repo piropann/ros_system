@@ -38,6 +38,7 @@ ROSを使用したPublisherとSubscriberのプログラム作成
 ### パーミッション設定
 初回に起動する場合、パーミッションの設定を行わなければならない。
 ```bash
+cd ~/catkin_ws/src/ros_system/src
 chmod +x count.py
 chmod +x twice.py
   ```
