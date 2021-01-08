@@ -31,7 +31,7 @@ ROSを使用したPublisherとSubscriberのプログラム作成
   ```
 ## 動画
 画像をクリックしていただけると動画(YouTube)に飛びます。
-[![](https://img.youtu.be/PsRcoulrIgI/0.jpg)](https://youtu.be/PsRcoulrIgI "")
+[![](https://img.youtube.com/vi/PsRcoulrIgI/0.jpg)](https://www.youtube.com/watch?v=PsRcoulrIgI "")
 
   ## プログラム起動方法
 
