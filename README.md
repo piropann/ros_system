@@ -2,7 +2,7 @@
 2020 RobotSystem Task2
 
 ## 概要
-ROSを使用したPublisherとSubscriberのプログラム作成
+ROSを使用したデータをトピックに送信するPublisherとトピックの情報を受信するSubscriberを組み込んだプログラム
 
 ## 動作環境
 
@@ -68,3 +68,5 @@ rostopic echo /count_up
 ```bash
 rostopic echo /twice
   ```
+## LICENSE
+MIT
