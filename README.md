@@ -29,7 +29,10 @@ ROSを使用したPublisherとSubscriberのプログラム作成
   cd ~/catkin_ws && catkin_make
   source ~/catkin_ws/devel/setup.bash
   ```
-  
+## 動画
+画像をクリックしていただけると動画(YouTube)に飛びます。
+[![](https://img.youtu.be/PsRcoulrIgI/0.jpg)](https://youtu.be/PsRcoulrIgI "")
+
   ## プログラム起動方法
 
 terminal１
