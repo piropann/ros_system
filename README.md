@@ -22,3 +22,9 @@ ROSを使用したPublisherとSubscriberのプログラム作成
   source ~/catkin_ws/devel/setup.bash
   ```
   
+  ## プログラム起動方法
+
+```bash
+  roscore
+  ```
+  
