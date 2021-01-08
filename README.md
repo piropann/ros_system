@@ -35,6 +35,7 @@ roslaunch ros_system pubsub.launch
   ```
   
 terminal３
+
 1ずつカウント
 ```bash
 rostopic echo /count_up
