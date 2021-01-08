@@ -4,6 +4,14 @@
 ## 概要
 ROSを使用したPublisherとSubscriberのプログラム作成
 
+## 動作環境
+
+以下の環境にて動作確認を行っています。
+
+- ROS Melodic
+  - OS: Ubuntu 18.04.3 LTS
+  - ROS Distribution: Melodic Morenia 1.14.3
+
 ## 実装方法
 
 - [ROS Wiki](http://wiki.ros.org/ja/kinetic/Installation/Ubuntu)を参照しROSをインストールします。
