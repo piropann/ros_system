@@ -24,7 +24,11 @@ ROSを使用したPublisherとSubscriberのプログラム作成
   
   ## プログラム起動方法
 
+terminal１
 ```bash
-  roscore
+roscore
   ```
-  
+  terminal２
+  ```bash
+roslaunch ros_system 
+  ```
