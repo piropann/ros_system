@@ -2,8 +2,7 @@
 2020 RobotSystem Task2
 
 ## 概要
-ROSを使用したデータをトピックに送信するPublisherとトピックの情報を受信するSubscriberを組み込んだプログラム
-
+ROSを使用したデータをトピックに送信するPublisherとトピックの情報を受信するSubscriberを組み込んだプログラム。
 そして、送信したトピックを確認する。
 ## 動作環境
 
