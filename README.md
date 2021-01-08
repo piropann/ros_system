@@ -41,6 +41,10 @@ ROSを使用したPublisherとSubscriberのプログラム作成
 chmod +x count.py
 chmod +x twice.py
   ```
+以下になったことを`ls -l`で確認する。
+```bash
+-rwxrwxr-x ．．．
+  ```
 
 ### terminal１
 ```bash
