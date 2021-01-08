@@ -69,4 +69,4 @@ rostopic echo /count_up
 rostopic echo /twice
   ```
 ## LICENSE
-MIT
+MIT License
