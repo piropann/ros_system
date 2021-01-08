@@ -33,7 +33,14 @@ ROSを使用したPublisherとSubscriberのプログラム作成
 画像をクリックしていただけると動画(YouTube)に飛びます。
 [![](https://img.youtube.com/vi/PsRcoulrIgI/0.jpg)](https://www.youtube.com/watch?v=PsRcoulrIgI "")
 
-  ## プログラム起動方法
+## プログラム起動方法
+
+### パーミッション設定
+初回に起動する場合、パーミッションの設定を行わなければならない。
+```bash
+chmod +x count.py
+chmod +x twice.py
+  ```
 
 ### terminal１
 ```bash
